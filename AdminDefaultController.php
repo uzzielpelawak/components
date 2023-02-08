@@ -1,5 +1,5 @@
 <?php
-namespace webvimark\components;
+namespace uzzielpelawak\components;
 
 
 use yii\data\ActiveDataProvider;

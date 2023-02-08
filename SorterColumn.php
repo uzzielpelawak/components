@@ -1,5 +1,5 @@
 <?php
-namespace webvimark\components;
+namespace uzzielpelawak\components;
 
 
 use yii\grid\DataColumn;
@@ -12,7 +12,7 @@ use yii\helpers\Url;
  *
  * For rendering attributes with dropDown filters and colored value
  *
- * @package app\webvimark\helpers
+ * @package app\uzzielpelawak\helpers
  */
 class SorterColumn extends DataColumn
 {

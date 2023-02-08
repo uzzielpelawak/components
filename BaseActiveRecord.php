@@ -1,9 +1,9 @@
 <?php
-namespace webvimark\components;
+namespace uzzielpelawak\components;
 
-use webvimark\helpers\LittleBigHelper;
-use webvimark\helpers\Singleton;
-use webvimark\image\Image;
+use uzzielpelawak\helpers\LittleBigHelper;
+use uzzielpelawak\helpers\Singleton;
+use uzzielpelawak\image\Image;
 use yii\caching\TagDependency;
 use yii\db\ActiveRecord;
 use Yii;

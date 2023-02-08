@@ -1,13 +1,13 @@
 {
-	"name": "webvimark/components",
+	"name": "uzzielpelawak/components",
 	"description": "Components for yii 2",
 	"require": {
-		"webvimark/image": "^1.0.0",
-		"webvimark/helpers": "^1.0.0"
+		"uzzielpelawak/image": "^1.0.0",
+		"uzzielpelawak/helpers": "^1.0.0"
 	},
 	"autoload": {
 		"psr-4": {
-			"webvimark\\components\\": ""
+			"uzzielpelawak\\components\\": ""
 		}
 	}
 }
