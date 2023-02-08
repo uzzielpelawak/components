@@ -2,8 +2,8 @@
 	"name": "uzzielpelawak/components",
 	"description": "Components for yii 2",
 	"require": {
-		"uzzielpelawak/image": "^1.0.0",
-		"uzzielpelawak/helpers": "^1.0.0"
+		"uzzielpelawak/image": "^2.0.0",
+		"uzzielpelawak/helpers": "^2.0.0"
 	},
 	"autoload": {
 		"psr-4": {
